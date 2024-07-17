@@ -1,0 +1,28 @@
+#logo_sub{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+#logo_header{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.heading{
+    font-family:  monospace;
+    display :flex;
+    justify-content:space-between;
+    color: #F9FaF8;
+    background-color: #1f2937;
+    border: 20px solid #1f2937
+}
+
+/* .flex-testing{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+    display: flex;
+    background-color: red;
+
+} */
